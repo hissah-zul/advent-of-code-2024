@@ -1,0 +1,11 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "01 day",
+  "main": "part_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/hissah-zul",
+  "license": "ISC"
+}
